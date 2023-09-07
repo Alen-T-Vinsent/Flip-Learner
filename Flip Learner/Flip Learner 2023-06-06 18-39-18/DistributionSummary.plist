@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Flip Learner.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>2</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1702D4606B57FC0A94D532EB4DC53A299C59D0C1</string>
+				<key>dateExpires</key>
+				<string>04/06/24</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>JVJZXPS8LZ.com.alen.app.Flip-Learner</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>JVJZXPS8LZ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Flip Learner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5ac27c17-0e47-4eb3-9335-57003f2861aa</string>
+				<key>dateExpires</key>
+				<string>04/06/24</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.alen.app.Flip-Learner</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>JVJZXPS8LZ</string>
+				<key>name</key>
+				<string>Robin George</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
